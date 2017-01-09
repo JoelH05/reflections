@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Comparing the two different version did help.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You can see where something worked and when something didn't.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Well the pros are that you know exactly where you saved it. The cons are
+you might do it often enough and miss something and have quite a lot to redo.
+The pros of automatically saving is that you don't have to remember to do it. The cons 
+are that you might have quite a number of version and not where you are half the time.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because with coding programs one might affect other files in one commit, while things like Google Docs, when you make a change you might not want to change all the files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    It is easy to see when changes were made by viewing the log and with diff you can where the differences are and how many.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Using version control might make me more confident to make changes that could break something because using git or a version control system like it that allows you to keeps records of changes and keeps the different commits on hands and allow you to view them and make changes you can possibly see where there might be bugs that cropped up or change something that you later realize you didn't need or want to change.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Not sure yet however this seem pretty interesting. Possibly for my future coding projects.
